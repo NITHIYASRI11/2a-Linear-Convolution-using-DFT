@@ -53,6 +53,7 @@ title('Graphical Representation of Input Signal y');
 ![WhatsApp Image 2026-03-25 at 20 38 30](https://github.com/user-attachments/assets/344d1451-ce59-4870-9ac7-14b3099a89af)
 
 ## SAMPLE OUTPUT:
+<img width="597" height="568" alt="image" src="https://github.com/user-attachments/assets/15c3dea5-c335-462d-bb83-ed7b8bed1439" />
 
 
 
